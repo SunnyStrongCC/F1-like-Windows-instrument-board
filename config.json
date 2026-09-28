@@ -1,0 +1,19 @@
+{
+  "mode": "mini",
+  "scale": 0.6,
+  "always_on_top": true,
+  "opacity": 0.98,
+  "ui_ms": 250,
+  "show_processes": true,
+  "language": "zh",
+  "sensors": {
+    "poll_ms": 1000,
+    "process_ms": 2000,
+    "top_processes": 12,
+    "enable_lhm": true
+  },
+  "position": [
+    1812,
+    48
+  ]
+}

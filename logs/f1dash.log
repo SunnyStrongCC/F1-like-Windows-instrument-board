@@ -1,0 +1,56 @@
+2026-09-28 19:41:55,532 INFO  ============================================================
+2026-09-28 19:41:55,532 INFO  启动: pid=23096 python=3.12.0
+2026-09-28 19:41:55,533 INFO  配置: {'mode': 'mini', 'scale': 1.0, 'always_on_top': True, 'opacity': 0.98, 'ui_ms': 500, 'show_processes': True, 'language': 'zh', 'sensors': {'poll_ms': 1000, 'process_ms': 2000, 'top_processes': 12, 'enable_lhm': True}}
+2026-09-28 19:41:55,534 INFO  管理员权限: True
+2026-09-28 19:41:57,890 INFO  进入主循环, 窗口 700x396 @ 1812,48
+2026-09-28 19:41:57,890 INFO  全局热键 Ctrl+Alt+L 已注册（鼠标穿透开关）
+2026-09-28 19:42:27,183 INFO  右键菜单 @ (2075, 233), 模式=mini
+2026-09-28 19:42:30,174 INFO  右键菜单 @ (2075, 233), 模式=mini
+2026-09-28 19:51:06,577 INFO  右键菜单 @ (2341, 1239), 模式=mini
+2026-09-28 19:51:07,532 INFO  右键菜单 @ (2341, 1239), 模式=mini
+2026-09-28 19:51:07,541 INFO  收到退出指令, 调用栈:
+  File "D:\yibiaopan\run.py", line 73, in <module>
+    main()
+  File "D:\yibiaopan\run.py", line 69, in main
+    run_app(BASE_DIR)
+  File "D:\yibiaopan\src\f1dash\app.py", line 633, in main
+    app.run()
+  File "D:\yibiaopan\src\f1dash\app.py", line 415, in run
+    self.root.mainloop()
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+  File "D:\yibiaopan\src\f1dash\app.py", line 272, in _popup
+    m.tk_popup(ev.x_root, ev.y_root)
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 3348, in tk_popup
+    self.tk.call('tk_popup', self._w, x, y, entry)
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+
+2026-09-28 19:51:07,744 INFO  已退出
+2026-09-28 19:51:09,787 INFO  主循环已退出
+2026-09-29 00:01:33,134 INFO  ============================================================
+2026-09-29 00:01:33,134 INFO  启动: pid=25480 python=3.12.0
+2026-09-29 00:01:33,134 INFO  配置: {'mode': 'mini', 'scale': 0.6, 'always_on_top': True, 'opacity': 0.98, 'ui_ms': 250, 'show_processes': True, 'language': 'zh', 'sensors': {'poll_ms': 1000, 'process_ms': 2000, 'top_processes': 12, 'enable_lhm': True}, 'position': [1812, 48]}
+2026-09-29 00:01:33,135 INFO  管理员权限: True
+2026-09-29 00:01:35,921 INFO  进入主循环, 窗口 420x237 @ 1812,48
+2026-09-29 00:01:35,921 WARNING Ctrl+Alt+L 全局热键注册失败（已被其他程序占用），鼠标穿透需用右键菜单
+2026-09-29 00:02:08,865 INFO  右键菜单 @ (2226, 680), 模式=mini
+2026-09-29 00:02:10,838 INFO  右键菜单 @ (2226, 680), 模式=mini
+2026-09-29 00:02:37,204 INFO  收到退出指令, 调用栈:
+  File "D:\yibiaopan\run.py", line 73, in <module>
+    main()
+  File "D:\yibiaopan\run.py", line 69, in main
+    run_app(BASE_DIR)
+  File "D:\yibiaopan\src\f1dash\app.py", line 633, in main
+    app.run()
+  File "D:\yibiaopan\src\f1dash\app.py", line 415, in run
+    self.root.mainloop()
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1485, in mainloop
+    self.tk.mainloop(n)
+  File "C:\Users\SunnyStrongCC\AppData\Local\Programs\Python\Python312\Lib\tkinter\__init__.py", line 1948, in __call__
+    return self.func(*args)
+
+2026-09-29 00:02:37,254 INFO  已退出
+2026-09-29 00:02:37,255 INFO  主循环已退出

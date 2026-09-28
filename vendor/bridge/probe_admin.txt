@@ -1,0 +1,237 @@
+== hardware count: 17 ==
+SuperIO    | Nuvoton NCT6687D           | CPU Fan                      | Control      | 74
+SuperIO    | Nuvoton NCT6687D           | Pump Fan                     | Control      | 100
+SuperIO    | Nuvoton NCT6687D           | System Fan #1                | Control      | 60
+SuperIO    | Nuvoton NCT6687D           | System Fan #2                | Control      | 60
+SuperIO    | Nuvoton NCT6687D           | System Fan #3                | Control      | 60
+SuperIO    | Nuvoton NCT6687D           | System Fan #4                | Control      | 100
+SuperIO    | Nuvoton NCT6687D           | System Fan #5                | Control      | 100
+SuperIO    | Nuvoton NCT6687D           | System Fan #6                | Control      | 50
+SuperIO    | Nuvoton NCT6687D           | +12V                         | Voltage      | 12.168
+SuperIO    | Nuvoton NCT6687D           | +5V                          | Voltage      | 5.02
+SuperIO    | Nuvoton NCT6687D           | Vcore                        | Voltage      | 1
+SuperIO    | Nuvoton NCT6687D           | Voltage #1                   | Voltage      | 0.678
+SuperIO    | Nuvoton NCT6687D           | DIMM                         | Voltage      | 2.576
+SuperIO    | Nuvoton NCT6687D           | CPU I/O                      | Voltage      | 0.696
+SuperIO    | Nuvoton NCT6687D           | CPU System Agent             | Voltage      | 0.726
+SuperIO    | Nuvoton NCT6687D           | Voltage #2                   | Voltage      | 1.544
+SuperIO    | Nuvoton NCT6687D           | AVCC3                        | Voltage      | 3.38
+SuperIO    | Nuvoton NCT6687D           | CPU Termination              | Voltage      | 1.83
+SuperIO    | Nuvoton NCT6687D           | VRef                         | Voltage      | 0
+SuperIO    | Nuvoton NCT6687D           | VSB                          | Voltage      | 3.344
+SuperIO    | Nuvoton NCT6687D           | AVSB                         | Voltage      | 3.344
+SuperIO    | Nuvoton NCT6687D           | CMOS Battery                 | Voltage      | 0
+SuperIO    | Nuvoton NCT6687D           | CPU                          | Temperature  | 64
+SuperIO    | Nuvoton NCT6687D           | System                       | Temperature  | 48.5
+SuperIO    | Nuvoton NCT6687D           | VRM MOS                      | Temperature  | 46
+SuperIO    | Nuvoton NCT6687D           | PCH                          | Temperature  | 41.5
+SuperIO    | Nuvoton NCT6687D           | CPU Socket                   | Temperature  | 45.5
+SuperIO    | Nuvoton NCT6687D           | PCIe x1                      | Temperature  | 43
+SuperIO    | Nuvoton NCT6687D           | M2 #1                        | Temperature  | 0
+SuperIO    | Nuvoton NCT6687D           | CPU Fan                      | Fan          | 1704
+SuperIO    | Nuvoton NCT6687D           | Pump Fan                     | Fan          | 0
+SuperIO    | Nuvoton NCT6687D           | System Fan #1                | Fan          | 1255
+SuperIO    | Nuvoton NCT6687D           | System Fan #2                | Fan          | 1220
+SuperIO    | Nuvoton NCT6687D           | System Fan #3                | Fan          | 0
+SuperIO    | Nuvoton NCT6687D           | System Fan #4                | Fan          | 0
+SuperIO    | Nuvoton NCT6687D           | System Fan #5                | Fan          | 0
+SuperIO    | Nuvoton NCT6687D           | System Fan #6                | Fan          | 0
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #1                  | Load         | 11.5
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #2                  | Load         | 10.54
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #3                  | Load         | 63.58
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #4                  | Load         | 26.28
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #5                  | Load         | 26.52
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #6                  | Load         | 68.91
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #7                  | Load         | 26.2
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #8                  | Load         | 31.31
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #9                  | Load         | 9.27
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #10                 | Load         | 15.34
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #11                 | Load         | 18.85
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #12                 | Load         | 24.28
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #13                 | Load         | 8.33
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #14                 | Load         | 11.82
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #15                 | Load         | 19.81
+Cpu        | AMD Ryzen 7 5700X          | CPU Core #16                 | Load         | 17.25
+Cpu        | AMD Ryzen 7 5700X          | CPU Total                    | Load         | 24.36
+Cpu        | AMD Ryzen 7 5700X          | CPU Core Max                 | Load         | 68.91
+Cpu        | AMD Ryzen 7 5700X          | Package                      | Power        | 61.619
+Cpu        | AMD Ryzen 7 5700X          | Cores (Average)              | Clock        | 4069
+Cpu        | AMD Ryzen 7 5700X          | Cores (Average Effective)    | Clock        | 1026
+Cpu        | AMD Ryzen 7 5700X          | Core #1                      | Clock        | 3720
+Cpu        | AMD Ryzen 7 5700X          | Core #1 (Effective)          | Clock        | 469
+Cpu        | AMD Ryzen 7 5700X          | Core #1                      | Factor       | 37.2
+Cpu        | AMD Ryzen 7 5700X          | Core #1 (SMU)                | Power        | 2.946
+Cpu        | AMD Ryzen 7 5700X          | Core #1 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #2                      | Clock        | 4650
+Cpu        | AMD Ryzen 7 5700X          | Core #2 (Effective)          | Clock        | 1895.5
+Cpu        | AMD Ryzen 7 5700X          | Core #2                      | Factor       | 46.5
+Cpu        | AMD Ryzen 7 5700X          | Core #2 (SMU)                | Power        | 5.647
+Cpu        | AMD Ryzen 7 5700X          | Core #2 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #3                      | Clock        | 4650
+Cpu        | AMD Ryzen 7 5700X          | Core #3 (Effective)          | Clock        | 2232
+Cpu        | AMD Ryzen 7 5700X          | Core #3                      | Factor       | 46.5
+Cpu        | AMD Ryzen 7 5700X          | Core #3 (SMU)                | Power        | 5.028
+Cpu        | AMD Ryzen 7 5700X          | Core #3 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #4                      | Clock        | 4650
+Cpu        | AMD Ryzen 7 5700X          | Core #4 (Effective)          | Clock        | 1162.5
+Cpu        | AMD Ryzen 7 5700X          | Core #4                      | Factor       | 46.5
+Cpu        | AMD Ryzen 7 5700X          | Core #4 (SMU)                | Power        | 4.797
+Cpu        | AMD Ryzen 7 5700X          | Core #4 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #5                      | Clock        | 3720
+Cpu        | AMD Ryzen 7 5700X          | Core #5 (Effective)          | Clock        | 476.5
+Cpu        | AMD Ryzen 7 5700X          | Core #5                      | Factor       | 37.2
+Cpu        | AMD Ryzen 7 5700X          | Core #5 (SMU)                | Power        | 2.993
+Cpu        | AMD Ryzen 7 5700X          | Core #5 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #6                      | Clock        | 3720
+Cpu        | AMD Ryzen 7 5700X          | Core #6 (Effective)          | Clock        | 839
+Cpu        | AMD Ryzen 7 5700X          | Core #6                      | Factor       | 37.2
+Cpu        | AMD Ryzen 7 5700X          | Core #6 (SMU)                | Power        | 3.969
+Cpu        | AMD Ryzen 7 5700X          | Core #6 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #7                      | Clock        | 3720
+Cpu        | AMD Ryzen 7 5700X          | Core #7 (Effective)          | Clock        | 421
+Cpu        | AMD Ryzen 7 5700X          | Core #7                      | Factor       | 37.2
+Cpu        | AMD Ryzen 7 5700X          | Core #7 (SMU)                | Power        | 2.837
+Cpu        | AMD Ryzen 7 5700X          | Core #7 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core #8                      | Clock        | 3720
+Cpu        | AMD Ryzen 7 5700X          | Core #8 (Effective)          | Clock        | 710
+Cpu        | AMD Ryzen 7 5700X          | Core #8                      | Factor       | 37.2
+Cpu        | AMD Ryzen 7 5700X          | Core #8 (SMU)                | Power        | 3.631
+Cpu        | AMD Ryzen 7 5700X          | Core #8 VID                  | Voltage      | 1.288
+Cpu        | AMD Ryzen 7 5700X          | Core (Tctl/Tdie)             | Temperature  | 64.625
+Cpu        | AMD Ryzen 7 5700X          | CCD1 (Tdie)                  | Temperature  | 65
+Cpu        | AMD Ryzen 7 5700X          | Core (SVI2 TFN)              | Voltage      | 1.294
+Cpu        | AMD Ryzen 7 5700X          | SoC (SVI2 TFN)               | Voltage      | 0.988
+Cpu        | AMD Ryzen 7 5700X          | Bus Speed                    | Clock        | 100.004
+Memory     | Virtual Memory             | Memory Used                  | Data         | 17.397
+Memory     | Virtual Memory             | Memory Available             | Data         | 19.528
+Memory     | Virtual Memory             | Memory                       | Load         | 47.114
+Memory     | Total Memory               | Memory Used                  | Data         | 11.478
+Memory     | Total Memory               | Memory Available             | Data         | 4.447
+Memory     | Total Memory               | Memory                       | Load         | 72.078
+Memory     | Corsair - CM4X8GD3200C16K… | tCKAVGmin (Minimum Cycle Ti… | Timing       | 0.75
+Memory     | Corsair - CM4X8GD3200C16K… | tCKAVGmax (Maximum Cycle Ti… | Timing       | 1.6
+Memory     | Corsair - CM4X8GD3200C16K… | tAA (CAS Latency Time)       | Timing       | 13.75
+Memory     | Corsair - CM4X8GD3200C16K… | tRCD (RAS to CAS Delay Time) | Timing       | 13.75
+Memory     | Corsair - CM4X8GD3200C16K… | tRP (Row Precharge Delay Ti… | Timing       | 13.75
+Memory     | Corsair - CM4X8GD3200C16K… | tRAS (Active to Precharge D… | Timing       | 32
+Memory     | Corsair - CM4X8GD3200C16K… | tRC (Active to Active/Refre… | Timing       | 45.75
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC1 (Refresh Recovery Del… | Timing       | 350
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC2 (Refresh Recovery Del… | Timing       | 260
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC4 (Refresh Recovery Del… | Timing       | 160
+Memory     | Corsair - CM4X8GD3200C16K… | tFAW (Four Activate Window … | Timing       | 21
+Memory     | Corsair - CM4X8GD3200C16K… | tRRD_S (Activate to Activat… | Timing       | 3.3
+Memory     | Corsair - CM4X8GD3200C16K… | tRRD_L (Activate to Activat… | Timing       | 4.9
+Memory     | Corsair - CM4X8GD3200C16K… | tCCD_L (CAS to CAS Delay Ti… | Timing       | 5
+Memory     | Corsair - CM4X8GD3200C16K… | tWR (Write Recovery Time)    | Timing       | 15
+Memory     | Corsair - CM4X8GD3200C16K… | tWTR_S (Write to Read Time)  | Timing       | 2.5
+Memory     | Corsair - CM4X8GD3200C16K… | tWTR_L (Write to Read Time)  | Timing       | 7.5
+Memory     | Corsair - CM4X8GD3200C16K… | Capacity                     | Data         | 8
+Memory     | Corsair - CM4X8GD3200C16K… | tCKAVGmin (Minimum Cycle Ti… | Timing       | 0.938
+Memory     | Corsair - CM4X8GD3200C16K… | tCKAVGmax (Maximum Cycle Ti… | Timing       | 1.5
+Memory     | Corsair - CM4X8GD3200C16K… | tAA (CAS Latency Time)       | Timing       | 13.5
+Memory     | Corsair - CM4X8GD3200C16K… | tRCD (RAS to CAS Delay Time) | Timing       | 13.5
+Memory     | Corsair - CM4X8GD3200C16K… | tRP (Row Precharge Delay Ti… | Timing       | 13.5
+Memory     | Corsair - CM4X8GD3200C16K… | tRAS (Active to Precharge D… | Timing       | 33
+Memory     | Corsair - CM4X8GD3200C16K… | tRC (Active to Active/Refre… | Timing       | 46.5
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC1 (Refresh Recovery Del… | Timing       | 350
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC2 (Refresh Recovery Del… | Timing       | 260
+Memory     | Corsair - CM4X8GD3200C16K… | tRFC4 (Refresh Recovery Del… | Timing       | 160
+Memory     | Corsair - CM4X8GD3200C16K… | tFAW (Four Activate Window … | Timing       | 21
+Memory     | Corsair - CM4X8GD3200C16K… | tRRD_S (Activate to Activat… | Timing       | 3.7
+Memory     | Corsair - CM4X8GD3200C16K… | tRRD_L (Activate to Activat… | Timing       | 5.3
+Memory     | Corsair - CM4X8GD3200C16K… | tCCD_L (CAS to CAS Delay Ti… | Timing       | 5.356
+Memory     | Corsair - CM4X8GD3200C16K… | tWR (Write Recovery Time)    | Timing       | 0
+Memory     | Corsair - CM4X8GD3200C16K… | tWTR_S (Write to Read Time)  | Timing       | 0
+Memory     | Corsair - CM4X8GD3200C16K… | tWTR_L (Write to Read Time)  | Timing       | 0
+Memory     | Corsair - CM4X8GD3200C16K… | Capacity                     | Data         | 8
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Core                     | Temperature  | 47
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Core                     | Clock        | 1000
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Memory                   | Clock        | 2187.125
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Core                     | Voltage      | 0.74
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Memory Total             | SmallData    | 16258
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Memory Used              | SmallData    | 1930.008
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Memory Free              | SmallData    | 14327.99
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Memory                   | Load         | 11.871
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Fan                      | Fan          | 1194
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Package                  | Power        | 51.54
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Core                     | Load         | 21.633
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Render/Compute           | Load         | 11.044
+GpuIntel   | Intel(R) Arc(TM) A770 Gra… | GPU Media                    | Load         | 0
+Storage    | WD Blue SN580 1TB          | Composite Temperature        | Temperature  | 48
+Storage    | WD Blue SN580 1TB          | Temperature #1               | Temperature  | 68.85
+Storage    | WD Blue SN580 1TB          | Temperature #2               | Temperature  | 43.85
+Storage    | WD Blue SN580 1TB          | Warning Temperature          | Temperature  | 83
+Storage    | WD Blue SN580 1TB          | Critical Temperature         | Temperature  | 87
+Storage    | WD Blue SN580 1TB          | Life                         | Level        | 99
+Storage    | WD Blue SN580 1TB          | Data Read                    | Data         | 71253
+Storage    | WD Blue SN580 1TB          | Data Written                 | Data         | 20480
+Storage    | WD Blue SN580 1TB          | Power On Count               | Factor       | 1175
+Storage    | WD Blue SN580 1TB          | Power On Hours               | Factor       | 3846
+Storage    | WD Blue SN580 1TB          | Used Space                   | Load         | 83.735
+Storage    | WD Blue SN580 1TB          | Free Space                   | Data         | 162.683
+Storage    | WD Blue SN580 1TB          | Total Space                  | Data         | 1000.205
+Storage    | WD Blue SN580 1TB          | Read Activity                | Load         | 0
+Storage    | WD Blue SN580 1TB          | Write Activity               | Load         | 0
+Storage    | WD Blue SN580 1TB          | Total Activity               | Load         | 100
+Storage    | WD Blue SN580 1TB          | Read Rate                    | Throughput   | -
+Storage    | WD Blue SN580 1TB          | Write Rate                   | Throughput   | -
+Storage    | WD Blue SN580 1TB          | Available Spare              | Level        | 100
+Storage    | WD Blue SN580 1TB          | Available Spare Threshold    | Level        | 10
+Storage    | WD Blue SN580 1TB          | Percentage Used              | Level        | 1
+Storage    | KINGBANK KP320             | Temperature                  | Temperature  | 48
+Storage    | KINGBANK KP320             | Data Read                    | Data         | 19831
+Storage    | KINGBANK KP320             | Data Written                 | Data         | 11425
+Storage    | KINGBANK KP320             | Power On Count               | Factor       | 1207
+Storage    | KINGBANK KP320             | Power On Hours               | Factor       | 6237
+Storage    | KINGBANK KP320             | Total Space                  | Data         | 512.11
+Storage    | KINGBANK KP320             | Read Activity                | Load         | 0
+Storage    | KINGBANK KP320             | Write Activity               | Load         | 0
+Storage    | KINGBANK KP320             | Total Activity               | Load         | 100
+Storage    | KINGBANK KP320             | Read Rate                    | Throughput   | -
+Storage    | KINGBANK KP320             | Write Rate                   | Throughput   | -
+Storage    | WDC WD5000AAKX-22ERMA0     | Temperature                  | Temperature  | 42
+Storage    | WDC WD5000AAKX-22ERMA0     | Power On Count               | Factor       | 729
+Storage    | WDC WD5000AAKX-22ERMA0     | Power On Hours               | Factor       | 3997
+Storage    | WDC WD5000AAKX-22ERMA0     | Used Space                   | Load         | -3688553000
+Storage    | WDC WD5000AAKX-22ERMA0     | Free Space                   | Data         | 18446740000
+Storage    | WDC WD5000AAKX-22ERMA0     | Total Space                  | Data         | 500.108
+Storage    | WDC WD5000AAKX-22ERMA0     | Read Activity                | Load         | 0
+Storage    | WDC WD5000AAKX-22ERMA0     | Write Activity               | Load         | 0
+Storage    | WDC WD5000AAKX-22ERMA0     | Total Activity               | Load         | 100
+Storage    | WDC WD5000AAKX-22ERMA0     | Read Rate                    | Throughput   | -
+Storage    | WDC WD5000AAKX-22ERMA0     | Write Rate                   | Throughput   | -
+Network    | VMware Network Adapter VM… | Data Uploaded                | Data         | 0
+Network    | VMware Network Adapter VM… | Data Downloaded              | Data         | 0
+Network    | VMware Network Adapter VM… | Upload Speed                 | Throughput   | 0
+Network    | VMware Network Adapter VM… | Download Speed               | Throughput   | 0
+Network    | VMware Network Adapter VM… | Network Utilization          | Load         | 0
+Network    | VMware Network Adapter VM… | Data Uploaded                | Data         | 0
+Network    | VMware Network Adapter VM… | Data Downloaded              | Data         | 0
+Network    | VMware Network Adapter VM… | Upload Speed                 | Throughput   | 0
+Network    | VMware Network Adapter VM… | Download Speed               | Throughput   | 0
+Network    | VMware Network Adapter VM… | Network Utilization          | Load         | 0
+Network    | WLAN 2                     | Data Uploaded                | Data         | 0.122
+Network    | WLAN 2                     | Data Downloaded              | Data         | 2.666
+Network    | WLAN 2                     | Upload Speed                 | Throughput   | 3240.71
+Network    | WLAN 2                     | Download Speed               | Throughput   | 41941.7
+Network    | WLAN 2                     | Network Utilization          | Load         | 0.062
+Network    | 本地连接* 11                   | Data Uploaded                | Data         | 0
+Network    | 本地连接* 11                   | Data Downloaded              | Data         | 0
+Network    | 本地连接* 11                   | Upload Speed                 | Throughput   | 0
+Network    | 本地连接* 11                   | Download Speed               | Throughput   | 0
+Network    | 本地连接* 11                   | Network Utilization          | Load         | 0
+Network    | 本地连接* 12                   | Data Uploaded                | Data         | 0
+Network    | 本地连接* 12                   | Data Downloaded              | Data         | 0
+Network    | 本地连接* 12                   | Upload Speed                 | Throughput   | 0
+Network    | 本地连接* 12                   | Download Speed               | Throughput   | 0
+Network    | 本地连接* 12                   | Network Utilization          | Load         | 0
+Network    | 蓝牙网络连接                     | Data Uploaded                | Data         | 0
+Network    | 蓝牙网络连接                     | Data Downloaded              | Data         | 0
+Network    | 蓝牙网络连接                     | Upload Speed                 | Throughput   | 0
+Network    | 蓝牙网络连接                     | Download Speed               | Throughput   | 0
+Network    | 蓝牙网络连接                     | Network Utilization          | Load         | 0
+Network    | 以太网                        | Data Uploaded                | Data         | 0
+Network    | 以太网                        | Data Downloaded              | Data         | 0
+Network    | 以太网                        | Upload Speed                 | Throughput   | 0
+Network    | 以太网                        | Download Speed               | Throughput   | 0
+Network    | 以太网                        | Network Utilization          | Load         | 0
